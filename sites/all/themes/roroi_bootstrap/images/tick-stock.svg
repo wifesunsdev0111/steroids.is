@@ -1,0 +1,12 @@
+<svg width="17px" height="17px" viewBox="0 0 17 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="Product-Details" transform="translate(-734.000000, -628.000000)">
+      <g id="Group-3" transform="translate(734.000000, 628.000000)">
+        <g id="Group">
+          <circle id="Oval" fill="#308800" cx="8.5" cy="8.5" r="8.5"></circle>
+          <path d="M6.934,11.7191977 C7.114,11.9197708 7.33,12 7.582,12 C7.834,12 8.05,11.9197708 8.23,11.7191977 L12.73,6.70487106 C13.09,6.30372493 13.09,5.66189112 12.73,5.3008596 C12.37,4.89971347 11.794,4.89971347 11.47,5.3008596 L7.582,9.59312321 L5.53,7.30659026 C5.17,6.90544413 4.594,6.90544413 4.27,7.30659026 C3.91,7.70773639 3.91,8.3495702 4.27,8.71060172 L6.934,11.7191977 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

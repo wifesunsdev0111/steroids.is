@@ -1,0 +1,3 @@
+(function($){var versionParts=$.ui.version.split('.');var majorVersion=parseInt(versionParts[0]);var minorVersion=parseInt(versionParts[1]);if((majorVersion>1)||(majorVersion===1&&minorVersion>=13)){return;}
+var fnOriginalPosition=$.fn.position;$.fn.extend({'position':function(options){if(typeof options==='undefined'){return fnOriginalPosition.call(this);}
+var target=typeof options.of==="string"?$(document).find(options.of):$(options.of);options.of=(target[0]===undefined)?null:target;return fnOriginalPosition.call(this,options);}});})(jQuery);;;
